@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WinterClap. I'm an engineering student.
+- 👋 Hi, I’m @WinterClap. I'm an electronics engineer and passionate about coding.
 - 🌱 I’m currently learning Web Development and some programming languages. 
 - 👀 I’m interested in later studies about Artificial Inteligence.
 - 💞️ I’m looking to collaborate on any organization, enterprise or start-up...
